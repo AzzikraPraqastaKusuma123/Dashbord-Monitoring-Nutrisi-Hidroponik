@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is an IoT-based hydroponics monitoring system that enables users to monitor critical parameters such as pH, humidity, water temperature, and TDS levels in real time. The system is designed to support hydroponic farmers in managing their crops efficiently and conveniently. Dokumentasi [here](https://docs.google.com/document/d/1InskTcacH38CUNy5jcr9j0o9Ob-vJ__HIbuv-F-01d8/edit?usp=sharing)
+This project is an IoT-based hydroponics monitoring system that enables users to monitor critical parameters such as pH, humidity, water temperature, and TDS levels in real time. The system is designed to support hydroponic farmers in managing their crops efficiently and conveniently. documentation [here](https://docs.google.com/document/d/1InskTcacH38CUNy5jcr9j0o9Ob-vJ__HIbuv-F-01d8/edit?usp=sharing)
 
 <div align="center">
     <img src="pixelard.gif" alt="Deskripsi GIF" width="500">
